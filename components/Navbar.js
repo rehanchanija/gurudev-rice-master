@@ -27,7 +27,7 @@ const Navbar = () => {
             className="sm:h-20 h-18 sm:w-20 w-20"
           />
           <h3 className="text-xl font-semibold text-primary">
-            GURUDE
+            GURUDEV
             <span className="text-[#7F8732]"> RICE </span>
           </h3>
         </div>
